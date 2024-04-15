@@ -1,1 +1,1 @@
-
+The purpose of WebCoin Tracker is to provide users with a real-time platform for tracking cryptocurrency prices. The website aims to offer seamless access to live cryptocurrency data, enabling users to stay informed about market fluctuations and make informed decisions regarding their investments.
